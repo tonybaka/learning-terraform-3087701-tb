@@ -6,7 +6,7 @@ terraform {
   }
 }
 
-provider "aws" {
-  region  = "us-east-1"
-  profile = "my-terraform-project"
-}
+#provider "aws" {
+#  region  = "us-east-1"
+#  profile = "my-terraform-project"
+#}
